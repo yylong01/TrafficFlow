@@ -1,3 +1,7 @@
 ## 介绍
 
 这是一个使用PySide6和YoLo-v8实现的交通流量检测功能，旨在练习界面搭建和深度学习融合。
+
+![image-20250621160342826](C:\Users\YUAN\AppData\Roaming\Typora\typora-user-images\image-20250621160342826.png)
+
+可以有效的检测当前车道流通的车辆数量。
